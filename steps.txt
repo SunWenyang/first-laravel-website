@@ -1,0 +1,11 @@
+download composer
+try composer in cmd
+try node -v npm -v
+try composer global require laravel/installer
+try laravel
+new project:
+laravel new XXXXXXXXx
+npm install
+php artisan serve
+php artisan make:auth
+npm run dev
